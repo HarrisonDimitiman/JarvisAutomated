@@ -1,3 +1,10 @@
+<div align="center">
+  <a href="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_d20ec4d0c3b6b96c7b9c57aa198f599e/jarvis-analytics.jpeg">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+<div>
+
+
 # Jarvis Automated Testing
 
 This is a Web Application - Automated Testing solely for Jarvis Analytics
