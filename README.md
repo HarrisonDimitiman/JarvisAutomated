@@ -15,6 +15,21 @@ If Mac:
 python
 ```
 or
+
 ```bash
 python3
 ```
+
+If Windows
+
+```bash
+python --version
+```
+
+or
+
+```bash
+py --version
+```
+
+
